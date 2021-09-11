@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ZGUEGXL uses technology to create pleasure
+title: ZGUEGXL delivers technology to create pleasure
 ---
 
 Machines will never replace humans, especially when in comes to adult entertainment. Who wants to get off from bunch of lifeless random pixels or a led-riddled blinking contraption? Not us.
