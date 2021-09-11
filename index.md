@@ -3,10 +3,18 @@ layout: page
 title: Delivering technology to create pleasure
 ---
 
+<figure>
+  <blockquote class="blockquote">
+    <p class="mb-0">Machines will never replace humans, especially when in comes to adult entertainment. Who wants to get off from bunch of lifeless random pixels or a led-riddled blinking contraption? Not us.
+
+    At ZGUEGXL we believe <b>performers</b> , <b>content producers</b> and <b>artists</b> can work hand-in-hand with <b>technology</b> to create new ways to connect people with people and new exciting ways of consuming content.</p>
+  </blockquote>
+</figure>
+
 <p class="text-info">
 Machines will never replace humans, especially when in comes to adult entertainment. Who wants to get off from bunch of lifeless random pixels or a led-riddled blinking contraption? Not us.
 
-At ZGUEGXL we believe <b>performers</b> , <b>content producers</b> and <b>artists</b> can work hand-in-hand with `technology` to create new ways to connect people with people and new exciting ways of consuming content.
+At ZGUEGXL we believe <b>performers</b> , <b>content producers</b> and <b>artists</b> can work hand-in-hand with <b>technology</b> to create new ways to connect people with people and new exciting ways of consuming content.
 </p>
 
 ## Why work with us
