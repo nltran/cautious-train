@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Delivering technology that creates pleasure
+title: Technology that creates pleasure
 ---
 
 <figure>
