@@ -14,12 +14,12 @@ title: Delivering technology that creates pleasure
 ## Why work with us
 See us as your private pleasure laboratory. You bring your most wicked and exciting product or ideas in adult entertainment and we turn them into functioning prototypes and software. We have a long experience working in the industry with the most advanced technology in electromechanics, artificial intelligence and virtual reality.
 
-Below are examples of how we can support your product or content but if long lists are not your thing (size does not always matter anyway) the best is still to [contact us directly](mailto:ed@zguegxl.xyz). 
+Below are examples of how we can support your product or content but if long lists are not your thing (size does not always matter anyway) the best is still to [`contact us directly`](mailto:ed@zguegxl.xyz). 
 
 * Sex toys that react to the user's pleasure
 * Content recommendations that engage the viewer
 * Immersive Virtual Reality experiences
 * Self-learning algorithms
-* Incredible sex machines
+* Innovative sex machines
 
 Our headquarters are in Belgium, we operate worldwide.
